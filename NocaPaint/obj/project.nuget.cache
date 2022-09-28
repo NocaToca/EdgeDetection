@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C2GTyJJqEawY4aS72sr6b2WR+tbRyl/TPgPhZS2rPiymXHzZnzO9oXEAoeCaT8U+J6Pu4o8InDZ1xEmxbH99HA==",
+  "success": true,
+  "projectFilePath": "F:\\NocaPaint\\NocaPaint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gavin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Gavin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

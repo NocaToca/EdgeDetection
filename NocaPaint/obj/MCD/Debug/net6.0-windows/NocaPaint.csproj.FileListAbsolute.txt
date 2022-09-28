@@ -1,0 +1,15 @@
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\NocaPaint.csproj.AssemblyReference.cache
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\NocaPaint.GeneratedMSBuildEditorConfig.editorconfig
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\NocaPaint.AssemblyInfoInputs.cache
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\NocaPaint.AssemblyInfo.cs
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\NocaPaint.csproj.CoreCompileInputs.cache
+F:\NocaPaint\bin\MCD\Debug\net6.0-windows\NocaPaint.exe
+F:\NocaPaint\bin\MCD\Debug\net6.0-windows\NocaPaint.deps.json
+F:\NocaPaint\bin\MCD\Debug\net6.0-windows\NocaPaint.runtimeconfig.json
+F:\NocaPaint\bin\MCD\Debug\net6.0-windows\NocaPaint.dll
+F:\NocaPaint\bin\MCD\Debug\net6.0-windows\NocaPaint.pdb
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\NocaPaint.dll
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\refint\NocaPaint.dll
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\NocaPaint.pdb
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\NocaPaint.genruntimeconfig.cache
+F:\NocaPaint\obj\MCD\Debug\net6.0-windows\ref\NocaPaint.dll
